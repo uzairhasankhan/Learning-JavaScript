@@ -1,0 +1,1 @@
+alert("Today is Friday");
